@@ -320,7 +320,6 @@ input, select, textarea {
 			-ms-flex-wrap: wrap;
 			flex-wrap: wrap;
 			gap: 1.5rem;
-			width: calc(100% + 3rem);
 			margin: 0 0 2rem 0;
 		}
 
